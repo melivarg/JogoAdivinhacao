@@ -7,7 +7,7 @@ Primeiro projeto focado em JS, realizado através da formação Explorer da Rock
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-Aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;
+   <a href="#-Aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
